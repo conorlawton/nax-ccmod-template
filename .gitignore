@@ -1,0 +1,9 @@
+node_modules
+dist
+*.code-workspace
+.vscode/
+build/
+*.png~
+
+# Remove when copying the template. 
+# esbuild-post.mjs

@@ -1,0 +1,13 @@
+{
+	"id": "change me",
+	"version": "0.1.0",
+	"title": "change-me",
+	"description": "change me",
+	"repository": "https://github.com/naxane/nax-ccmod-template",
+	"tags": [],
+	"authors": ["nax"],
+	"dependencies": {
+		"nax-module-cache": "^1.0.0"
+	},
+	"plugin": "nax-ccmod-template/plugin.js"
+}
